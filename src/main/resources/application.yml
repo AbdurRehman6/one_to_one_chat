@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      username: mongo
+      password: WyTqBkejtJMzNFZyvOCHSTmIprrkqJlv
+      host: monorail.proxy.rlwy.net
+      port: 36432
+      database: chat_app
+      authentication-database: admin
+server:
+  port: 8088
